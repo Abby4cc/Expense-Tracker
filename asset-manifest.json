@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Expense-Tracka/static/css/main.722eafe8.css",
+    "main.js": "/Expense-Tracka/static/js/main.21184a3e.js",
+    "static/js/453.fab86c7c.chunk.js": "/Expense-Tracka/static/js/453.fab86c7c.chunk.js",
+    "index.html": "/Expense-Tracka/index.html",
+    "main.722eafe8.css.map": "/Expense-Tracka/static/css/main.722eafe8.css.map",
+    "main.21184a3e.js.map": "/Expense-Tracka/static/js/main.21184a3e.js.map",
+    "453.fab86c7c.chunk.js.map": "/Expense-Tracka/static/js/453.fab86c7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.722eafe8.css",
+    "static/js/main.21184a3e.js"
+  ]
+}
